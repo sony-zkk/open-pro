@@ -1,4 +1,5 @@
   === timezone map
+  === use ssh mod
   1   zone1=GMT-12:00 on the West line
   10  zone10=GMT-06:00 Central Time (U.S. & Canada) 
   11  zone11=GMT-06:00 Central America
